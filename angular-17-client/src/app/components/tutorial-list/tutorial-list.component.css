@@ -1,0 +1,141 @@
+/* 
+.body{
+  background-image: url('books.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+.list {
+  
+  margin-top: 20px;
+}
+
+.col-md-8 {
+  margin-bottom: 20px;
+}
+
+.input-group {
+  width: 100%;
+}
+
+.form-control {
+  width: 80%;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-outline-secondary {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.col-md-6 {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h4 {
+  color: #007bff;
+}
+
+.list-group {
+  margin-top: 15px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+.list-group-item.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #a52d3e;
+} */
+.body {
+  background-image: url('list_books.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.col-md-8 {
+  margin-bottom: 20px;
+}
+
+.input-group {
+  width: 100%;
+}
+
+.form-control {
+  width: 80%;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-outline-secondary {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.col-md-6 {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h4 {
+  color: #007bff;
+}
+
+.list-group {
+  margin-top: 15px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+.list-group-item.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #a52d3e;
+}

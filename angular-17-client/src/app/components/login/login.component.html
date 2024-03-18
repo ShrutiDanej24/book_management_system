@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+</head>
+<body>
+
+<div class="container">
+    <!-- <h1>Login</h1> -->
+    <div class="form-group">
+        <label for="email"><b style="color: rgb(43, 42, 42);">Email:</b></label>
+        <input type="text" class="form-control" id="email" [(ngModel)]="email" placeholder="Enter your email">
+    </div>
+    <div class="form-group">
+        <label for="password"><b style="color: rgb(43, 42, 42);">Password:</b></label>
+        <input type="password" class="form-control" id="password" [(ngModel)]="password" placeholder="Enter your password">
+    </div>
+    <button class="btn btn-primary" (click)="login()">Login</button>
+    <p *ngIf="loginFailed" class="text-danger">Login failed. Please check your credentials.</p>
+</div>
+
+</body>
+</html>
