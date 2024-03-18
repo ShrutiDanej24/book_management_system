@@ -13,24 +13,16 @@ This project is a Book Management System developed using the Spring Boot for the
 
 ## Technologies Used
 #### Backend:
-##### Spring Boot
-##### Spring Data JPA
-##### Spring MVC
-##### MySQL
+Spring Boot, Spring Data JPA, Spring MVC, MySQL
 
 #### Frontend:
-##### Angular
-##### TypeScript
-##### HTML
-##### CSS
-##### Bootstrap (for styling)
+Angular, HTML, CSS, Bootstrap (for styling)
 
 ## Prerequisites
 #### - JDK (Java Development Kit)
 #### - Node.js and npm (Node Package Manager)
 #### - Angular CLI
 #### - MySQL and MySQL Workbench (for database management)
-
 
 
 
